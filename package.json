@@ -1,0 +1,24 @@
+{
+  "name": "@new4/node-progressbar",
+  "version": "0.0.1",
+  "description": "A node progressbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new4/node-progressbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/new4/node-progressbar/issues"
+  },
+  "homepage": "https://github.com/new4/node-progressbar#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-new4-eslintrc": "^0.4.4"
+  }
+}
